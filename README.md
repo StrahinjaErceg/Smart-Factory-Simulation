@@ -34,15 +34,14 @@ Setup & Prerequisites:
 
 Running the Project:
 
-1. Open TIA Portal V15.1 and load the project file (`.ap16` or `.zaparchive`).
+1. Open TIA Portal V15.1 and load the project file (Factory.ap_15).
 2. Open PLCSIM Advanced and launch CPU 1518F-4 PN/DP simulation.
 3. In TIA Portal, select 'Online' > 'Compile and Download to device'.
 4. Start the PLC in PLCSIM Advanced.
-5. Open Factory I/O scene file (`.fio`).
-6. Configure the I/O address mapping in Factory I/O to match your PLC tags.
-
-   * Use the provided `IO_Config.xml` or manual mapping guide.
-7. Press 'Play' in Factory I/O to begin the simulation.
+5. Open Factory I/O scene file (Factory.factoryio).
+6. Configure the I/O address mapping in Factory I/O to match your PLC tags
+  * Use the provided Default tag table.pdf.
+8. Press 'Play' in Factory I/O to begin the simulation.
 
 Key PLC Logic Modules:
 
