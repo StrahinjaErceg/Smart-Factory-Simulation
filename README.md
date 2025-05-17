@@ -61,9 +61,9 @@ Tips & Troubleshooting:
 
 Project Files:
 
-* `Factory.ap15` – TIA Portal project archive
-* `Factory.fio` – Factory I/O scene
-* `IO_Config.xml` – I/O mapping file
+* `Factory.ap_15` – TIA Portal project archive
+* `Factory.factoryio` – Factory I/O scene
+* `Default tag table.pdf` – I/O mapping file
 * `README.txt` – this file
 
 Contact:
